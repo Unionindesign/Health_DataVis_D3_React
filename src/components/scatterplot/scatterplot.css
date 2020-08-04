@@ -1,7 +1,6 @@
-/* .scatterplot {
-  background-color: #dcdcdc;
-  height: 75vh;
-  width: 90%;
-  border-radius: 5px;
-  border: 2px solid #585858;
-} */
+.circles {
+  fill: steelblue;
+  fill-opacity: 0.6;
+  stroke: white;
+  stroke-width: 2;
+}
